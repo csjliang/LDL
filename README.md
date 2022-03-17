@@ -1,6 +1,6 @@
 # LDL
 
-### [Paper]() |   [Supplementary Material]()
+### [Paper](https://liangjie.xyz/LjHomepageFiles/paper_files/LDL_CVPR2022_paper.pdf) |   [Supplementary Material](https://liangjie.xyz/LjHomepageFiles/paper_files/LDL_CVPR2022_suppl.pdf)
 
 > **Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution** <br>
 > Jie Liang\*, Hui Zeng\*, and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). <br>
