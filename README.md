@@ -1,6 +1,6 @@
 # LPTN
 
-### [Paper](https://arxiv.org/pdf/2105.09188.pdf) |   [Supplementary Material](http://www4.comp.polyu.edu.hk/~cslzhang/paper/LPTN-cvpr21-supp.pdf) |   [Poster](http://liangjie.xyz/LjHomepageFiles/paper_files/poster_LPTN.pdf)
+### [Paper]() |   [Supplementary Material]()
 
 > **Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution** <br>
 > Jie Liang\*, Hui Zeng\*, and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). <br>
