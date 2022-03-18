@@ -17,7 +17,7 @@ Our proposed locally discriminative learning (LDL) method is simple yet effectiv
 Experiments demonstrate that LDL outperforms the state-of-the-art GAN based SISR methods, 
 achieving not only higher reconstruction accuracy but also superior perceptual quality on both synthetic and real-world datasets.
 
-Codes and models will be released soon.
+### Codes and models will be released soon.
 
 ### Citation
 ```
