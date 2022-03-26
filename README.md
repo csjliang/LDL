@@ -33,7 +33,7 @@ cd LDL
 
 - Install dependencies. (Python 3 + NVIDIA GPU + CUDA. Recommend to use Anaconda)
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 - Prepare the training and testing dataset by following this [instruction](datasets/README.md).
