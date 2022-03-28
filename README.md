@@ -87,6 +87,10 @@ PYTHONPATH="./:${PYTHONPATH}" python scripts/metrics/table_calculate_psnr_all.py
 ```
 Other metrics are similar.
 
+### License
+
+This project is released under the Apache 2.0 license.
+
 ### Citation
 ```
 @inproceedings{jie2022LDL,
