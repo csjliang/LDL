@@ -4,7 +4,7 @@
 
 > **Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution** <br>
 > [Jie Liang\*](https://liangjie.xyz/), [Hui Zeng\*](https://huizeng.github.io/), and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). <br>
-> In CVPR 2022.
+> In CVPR 2022 (Oral Presentation).
 
 ### Abstract
 
