@@ -79,6 +79,8 @@ PYTHONPATH="./:${PYTHONPATH}" CUDA_VISIBLE_DEVICES=0 python basicsr/test.py -opt
 
 Evaluating files (logs and visualizations) will be saved in the directory ```./results/{name}```
 
+The Training and testing steps for scale=2 are similar.
+
 #### Get Quantitative Metrics
 
 First, check and adapt the settings of the files in [metrics](scripts/metrics), then (take PSNR as an example) run
